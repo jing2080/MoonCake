@@ -1,2 +1,33 @@
-# MoonCake
-An enterprise-grade C++ mooncake factory. It never compiles. This is by design.
+# MooncakeFactoryBuilderSingletonManagerProviderLocatorCoordinatorOrchestrator
+
+> 一个企业级 C++ 月饼工厂。
+> 它永远无法编译。这是设计如此。
+>
+> **本仓库由 AI 生成，纯属娱乐，请勿当真。**
+
+---
+
+## 简介
+
+把工厂、建造者、单例、管理器、提供者、定位器、协调者、编排器，全部塞进一个类名里。
+
+编译它，编译器会用最正经的方式，念出最荒唐的月饼质检报告。
+
+---
+
+## 特性
+
+- 莲蓉甜度精确到 8.75（国际月饼组织标准）
+- 咸蛋黄居中检测（量子级精度）
+- 五仁短缺谣言自动恐慌
+- 厨房猫占位检测
+- 月饼觉醒检测（防止它问卡路里）
+- 嫦娥授权码验证
+- 编译期质检报告（1000+ 行 warning + error）
+
+---
+
+## 快速开始
+
+```bash
+g++ -std=c++17 -Wall -Wextra main.cpp -o mooncake.exe
